@@ -21,7 +21,7 @@ cd cstate
 ```
 #### Build with cmake
 ```bash
-sudo cmake
+sudo cmake .
 sudo cmake --build .
 ```
 #### Install in path
