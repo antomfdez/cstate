@@ -1,7 +1,0 @@
-/home/antomfdez/c/cstate/CMakeFiles/cstate.dir
-/home/antomfdez/c/cstate/CMakeFiles/edit_cache.dir
-/home/antomfdez/c/cstate/CMakeFiles/rebuild_cache.dir
-/home/antomfdez/c/cstate/CMakeFiles/list_install_components.dir
-/home/antomfdez/c/cstate/CMakeFiles/install.dir
-/home/antomfdez/c/cstate/CMakeFiles/install/local.dir
-/home/antomfdez/c/cstate/CMakeFiles/install/strip.dir

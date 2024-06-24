@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/cstate.dir/src/main.o -o build/cstate
