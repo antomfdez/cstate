@@ -21,8 +21,7 @@ int main(int argc, char *argv[]) {
 		.flag();
 	program.add_argument("-fr", "--freeze")
 		.help("The freeze option, when set, will initiate a lightweight \
-software-based-only sleep state for your system and the Linux user \
-space will be frozen (hence the term) and all I/O devices will be put into a low power state.")
+software-based-only sleep state.")
 		.flag();
 
 	try {
