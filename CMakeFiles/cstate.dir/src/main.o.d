@@ -131,7 +131,7 @@ CMakeFiles/cstate.dir/src/main.o: /home/antomfdez/c/cstate/src/main.cc \
  /usr/include/c++/13.2/bits/basic_ios.tcc \
  /usr/include/c++/13.2/bits/ostream.tcc /usr/include/c++/13.2/istream \
  /usr/include/c++/13.2/bits/istream.tcc \
- /home/antomfdez/c/cstate/src/../include/argparse.h \
+ /home/antomfdez/c/cstate/src/../include/argparse.hpp \
  /usr/include/c++/13.2/algorithm /usr/include/c++/13.2/bits/stl_algo.h \
  /usr/include/c++/13.2/bits/algorithmfwd.h \
  /usr/include/c++/13.2/bits/stl_heap.h \
