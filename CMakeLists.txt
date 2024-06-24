@@ -4,7 +4,7 @@ set( CMAKE_RUNTIME_OUTPUT_DIRECTORY "build/" )
 
 file(GLOB SRC_files
 	src/*.cc
-	src/*.h
+	src/*.hpp
 )
 file(GLOB INCL_files
 	include/*.h

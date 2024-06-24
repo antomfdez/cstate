@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-#include "../include/argparse.h"
+#include "../include/argparse.hpp"
 
 using namespace std;
 #define ANSI_COLOR_RED     "\x1b[31m"
